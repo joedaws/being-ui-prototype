@@ -1,4 +1,5 @@
-Readme text goes here
+# Prototype UI for being simulation
 
-
-From template# being-ui-prototype
+Working through the [tutorial](https://hexdocs.pm/scenic/overview_scene.html) 
+for Scenic to understand how to build a UI and also build the 
+visualization component of the beings simulation.
